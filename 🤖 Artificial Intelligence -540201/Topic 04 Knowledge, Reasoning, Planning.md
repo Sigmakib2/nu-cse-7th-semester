@@ -211,7 +211,7 @@ iii) Valid
 
 [2018]
 
-![[image.png]]
+![[media 📷/image.png]]
 25. Translate the following statement into FOPI 
 
 i. All employee earning taka to 2, 40,000 or more per year pay Texs

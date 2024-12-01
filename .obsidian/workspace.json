@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence -540201/01 INDEX 📓.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 INDEX 📓"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence -540201/01 INDEX 📓.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 INDEX 📓"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence -540201/01 INDEX 📓.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01 INDEX 📓"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial Intelligence -540201/01 INDEX 📓.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 INDEX 📓"
+              "title": "Outline of README"
             }
           }
         ]
@@ -164,41 +164,41 @@
   },
   "active": "c4409f78a068a0f7",
   "lastOpenFiles": [
-    "Artificial Intelligence -540201/Topic 01 Introduction.md",
-    "Artificial Intelligence -540201/01 INDEX 📓.md",
-    "Artificial Intelligence -540201/Topic 03 Problem Solving by Searching.md",
-    "Artificial Intelligence -540201/Topic 02 Intelligent Agent.md",
-    "Artificial Intelligence -540201/Topic 05 Neural Network.md",
-    "Artificial Intelligence -540201/Topic 04 Knowledge, Reasoning, Planning.md",
-    "02- Compiler Design and Construction -540203.md",
-    "03- Computer Graphics -540205.md",
-    "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
-    "Computer Graphics -540205/Chapter 6 Hidden Surfaces.md",
-    "Computer Graphics -540205/Chapter 5 Mathematics for Projection & Geometric.md",
-    "Computer Graphics -540205/Chapter 4 Two and Three-Dimensional Viewing and Cl.md",
-    "Computer Graphics -540205/Chapter 3 Two and Three-Dimensional Transformation.md",
-    "Computer Graphics -540205/Chapter 2 Scan Conversion.md",
-    "Computer Graphics -540205/Chapter 1 Graphics Input, Storage, Output, and Com.md",
-    "Compiler Design and Construction -540203/Chapter 11 Error Detection.md",
-    "Compiler Design and Construction -540203/Chapter 10 Algorithms.md",
-    "Compiler Design and Construction -540203/Chapter 9 Code Optimization.md",
-    "Compiler Design and Construction -540203/Chapter 8 Code Generation.md",
-    "Compiler Design and Construction -540203/Chapter 7 Intermediate Code Generation.md",
-    "Compiler Design and Construction -540203/Chapter 6 Syntax Directed Translation & Runtime.md",
-    "Compiler Design and Construction -540203/Chapter 5 Basic Parsing Technique.md",
-    "Compiler Design and Construction -540203/Chapter 4 Syntax Analysis.md",
-    "Compiler Design and Construction -540203/Chapter 3 Lexical Analysis.md",
-    "Compiler Design and Construction -540203/Chapter 2 A Simple One-Pass Compiler.md",
-    "Compiler Design and Construction -540203/Chapter 1 Introduction to Compiling.md",
-    "media/2022_Questions_7th_Semester.pdf",
-    "media/image.png",
+    "💳 E-Commerce and Web Engineering -540207/04- E-Commerce and Web Engineering -540207.md",
+    "README.md",
+    "👩‍💻 Compiler Design and Construction -540203/01 INDEX 📓.md",
+    "🤖 Artificial Intelligence -540201/01 INDEX 📓.md",
+    "🤖 Artificial Intelligence -540201/Topic 01 Introduction.md",
+    "media 📷/2022_Questions_7th_Semester.pdf",
+    "💳 E-Commerce and Web Engineering -540207",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 1 Introduction to Compiling.md",
+    "🖥 Computer Graphics -540205/01 INDEX 📓.md",
+    "🖥 Computer Graphics -540205/Chapter 3 Two and Three-Dimensional Transformation.md",
+    "🖥 Computer Graphics -540205/Chapter 1 Graphics Input, Storage, Output, and Com.md",
+    "🤖 Artificial Intelligence -540201/Topic 03 Problem Solving by Searching.md",
+    "🤖 Artificial Intelligence -540201/Topic 02 Intelligent Agent.md",
+    "🤖 Artificial Intelligence -540201/Topic 05 Neural Network.md",
+    "🤖 Artificial Intelligence -540201/Topic 04 Knowledge, Reasoning, Planning.md",
+    "🖥 Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
+    "🖥 Computer Graphics -540205/Chapter 6 Hidden Surfaces.md",
+    "🖥 Computer Graphics -540205/Chapter 5 Mathematics for Projection & Geometric.md",
+    "🖥 Computer Graphics -540205/Chapter 4 Two and Three-Dimensional Viewing and Cl.md",
+    "🖥 Computer Graphics -540205/Chapter 2 Scan Conversion.md",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 11 Error Detection.md",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 10 Algorithms.md",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 9 Code Optimization.md",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 8 Code Generation.md",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 7 Intermediate Code Generation.md",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 6 Syntax Directed Translation & Runtime.md",
+    "👩‍💻 Compiler Design and Construction -540203/Chapter 5 Basic Parsing Technique.md",
+    "media 📷/image.png",
     "Artificial Intelligence -540201 14f00a648f6181eb87b9ce1d5c114011/Topic 04 Knowledge, Reasoning, Planning 14f00a648f618195bf29fe5083719dbe/image.png",
     "media/Pasted image 20241201083753.png",
-    "Computer Graphics -540205",
-    "Compiler Design and Construction -540203",
+    "🖥 Computer Graphics -540205",
+    "👩‍💻 Compiler Design and Construction -540203",
     "Artificial Intelligence -540201 14f00a648f6181eb87b9ce1d5c114011/Topic 04 Knowledge, Reasoning, Planning 14f00a648f618195bf29fe5083719dbe",
-    "Artificial Intelligence -540201",
     "🤖 Artificial Intelligence -540201",
-    "media"
+    "🤖 Artificial Intelligence -540201",
+    "media 📷"
   ]
 }
