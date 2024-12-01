@@ -16,6 +16,6 @@ Clone this obsidian vault: https://github.com/Sigmakib2/nu-cse-7th-semester.git
 ---
 ## Find me on:
 
-Facebook: https://www.facebook.com/sigmakib2
-LinkedIn: https://www.linkedin.com/in/sakib-mahmud-sakib/
-YouTube: https://www.youtube.com/@esakib
+- Facebook: https://www.facebook.com/sigmakib2
+- LinkedIn: https://www.linkedin.com/in/sakib-mahmud-sakib/
+- YouTube: https://www.youtube.com/@esakib
