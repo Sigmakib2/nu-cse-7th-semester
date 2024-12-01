@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "92d79d1da31b16ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "2955444b2b493daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4409f78a068a0f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 7 Color and Shading Model"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b69bcf0965ae4993",
+    "type": "split",
+    "children": [
+      {
+        "id": "c980b80ddbc0605f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2983c5fe0cb1791",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33fc1b9cd099080d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b9df07678b3597d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "right": {
+    "id": "0bfccabacec6e08d",
+    "type": "split",
+    "children": [
+      {
+        "id": "88708fe672585b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab60138ca6e616a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 7 Color and Shading Model"
+            }
+          },
+          {
+            "id": "26a86f97e7caef29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 7 Color and Shading Model"
+            }
+          },
+          {
+            "id": "27f4aa567d795612",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c30a591ac5dd3af3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 7 Color and Shading Model"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b2983c5fe0cb1791",
+  "lastOpenFiles": [
+    "Computer Graphics -540205/Chapter 6 Hidden Surfaces.md",
+    "Computer Graphics -540205/Chapter 5 Mathematics for Projection & Geometric.md",
+    "Computer Graphics -540205/Chapter 4 Two and Three-Dimensional Viewing and Cl.md",
+    "Computer Graphics -540205/Chapter 3 Two and Three-Dimensional Transformation.md",
+    "Computer Graphics -540205/Chapter 2 Scan Conversion.md",
+    "Computer Graphics -540205/Chapter 1 Graphics Input, Storage, Output, and Com.md",
+    "Compiler Design and Construction -540203/Chapter 11 Error Detection.md",
+    "Compiler Design and Construction -540203/Chapter 10 Algorithms.md",
+    "Compiler Design and Construction -540203/Chapter 9 Code Optimization.md",
+    "Compiler Design and Construction -540203/Chapter 8 Code Generation.md",
+    "Compiler Design and Construction -540203/Chapter 7 Intermediate Code Generation.md",
+    "Compiler Design and Construction -540203/Chapter 6 Syntax Directed Translation & Runtime.md",
+    "Compiler Design and Construction -540203/Chapter 5 Basic Parsing Technique.md",
+    "Compiler Design and Construction -540203/Chapter 4 Syntax Analysis.md",
+    "Compiler Design and Construction -540203/Chapter 3 Lexical Analysis.md",
+    "Compiler Design and Construction -540203/Chapter 2 A Simple One-Pass Compiler.md",
+    "Compiler Design and Construction -540203/Chapter 1 Introduction to Compiling.md",
+    "Artificial Intelligence -540201/Topic 05 Neural Network.md",
+    "Artificial Intelligence -540201/Topic 04 Knowledge, Reasoning, Planning.md",
+    "Artificial Intelligence -540201/Topic 03 Problem Solving by Searching.md",
+    "Artificial Intelligence -540201/Topic 02 Intelligent Agent.md",
+    "01- Artificial Intelligence -540201.md",
+    "04- E-Commerce and Web Engineering -540207.md",
+    "03- Computer Graphics -540205.md",
+    "02- Compiler Design and Construction -540203.md",
+    "media/2022_Questions_7th_Semester.pdf",
+    "Artificial Intelligence -540201/Topic 01 Introduction.md",
+    "media/image.png",
+    "Artificial Intelligence -540201 14f00a648f6181eb87b9ce1d5c114011/Topic 04 Knowledge, Reasoning, Planning 14f00a648f618195bf29fe5083719dbe/image.png",
+    "media/Pasted image 20241201083753.png",
+    "Computer Graphics -540205",
+    "Compiler Design and Construction -540203",
+    "Artificial Intelligence -540201 14f00a648f6181eb87b9ce1d5c114011/Topic 04 Knowledge, Reasoning, Planning 14f00a648f618195bf29fe5083719dbe",
+    "Artificial Intelligence -540201",
+    "🤖 Artificial Intelligence -540201",
+    "media"
+  ]
+}
