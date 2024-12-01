@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
+                "file": "Artificial Intelligence -540201/01 INDEX 📓.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 Color and Shading Model"
+              "title": "01 INDEX 📓"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
+                "file": "Artificial Intelligence -540201/01 INDEX 📓.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 7 Color and Shading Model"
+              "title": "Backlinks for 01 INDEX 📓"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
+                "file": "Artificial Intelligence -540201/01 INDEX 📓.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 7 Color and Shading Model"
+              "title": "Outgoing links from 01 INDEX 📓"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Graphics -540205/Chapter 7 Color and Shading Model.md"
+                "file": "Artificial Intelligence -540201/01 INDEX 📓.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 7 Color and Shading Model"
+              "title": "Outline of 01 INDEX 📓"
             }
           }
         ]
@@ -162,8 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2983c5fe0cb1791",
+  "active": "c4409f78a068a0f7",
   "lastOpenFiles": [
+    "Artificial Intelligence -540201/Topic 01 Introduction.md",
+    "Artificial Intelligence -540201/01 INDEX 📓.md",
+    "Artificial Intelligence -540201/Topic 03 Problem Solving by Searching.md",
+    "Artificial Intelligence -540201/Topic 02 Intelligent Agent.md",
+    "Artificial Intelligence -540201/Topic 05 Neural Network.md",
+    "Artificial Intelligence -540201/Topic 04 Knowledge, Reasoning, Planning.md",
+    "02- Compiler Design and Construction -540203.md",
+    "03- Computer Graphics -540205.md",
+    "Computer Graphics -540205/Chapter 7 Color and Shading Model.md",
     "Computer Graphics -540205/Chapter 6 Hidden Surfaces.md",
     "Computer Graphics -540205/Chapter 5 Mathematics for Projection & Geometric.md",
     "Computer Graphics -540205/Chapter 4 Two and Three-Dimensional Viewing and Cl.md",
@@ -181,16 +190,7 @@
     "Compiler Design and Construction -540203/Chapter 3 Lexical Analysis.md",
     "Compiler Design and Construction -540203/Chapter 2 A Simple One-Pass Compiler.md",
     "Compiler Design and Construction -540203/Chapter 1 Introduction to Compiling.md",
-    "Artificial Intelligence -540201/Topic 05 Neural Network.md",
-    "Artificial Intelligence -540201/Topic 04 Knowledge, Reasoning, Planning.md",
-    "Artificial Intelligence -540201/Topic 03 Problem Solving by Searching.md",
-    "Artificial Intelligence -540201/Topic 02 Intelligent Agent.md",
-    "01- Artificial Intelligence -540201.md",
-    "04- E-Commerce and Web Engineering -540207.md",
-    "03- Computer Graphics -540205.md",
-    "02- Compiler Design and Construction -540203.md",
     "media/2022_Questions_7th_Semester.pdf",
-    "Artificial Intelligence -540201/Topic 01 Introduction.md",
     "media/image.png",
     "Artificial Intelligence -540201 14f00a648f6181eb87b9ce1d5c114011/Topic 04 Knowledge, Reasoning, Planning 14f00a648f618195bf29fe5083719dbe/image.png",
     "media/Pasted image 20241201083753.png",
