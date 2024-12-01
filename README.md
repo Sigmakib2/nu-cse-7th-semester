@@ -9,3 +9,13 @@ This Github notebook is organized to cover all the essential topics, notes, assi
 [[👩‍💻 Compiler Design and Construction -540203/01 INDEX 📓| 👩‍💻 Compiler Design and Construction - INDEX 📓]]
 
 [[💳 E-Commerce and Web Engineering -540207/04- E-Commerce and Web Engineering -540207|💳 E-Commerce and Web Engineering -540207]]
+
+
+Clone this obsidian vault: https://github.com/Sigmakib2/nu-cse-7th-semester.git
+
+---
+## Find me on:
+
+Facebook: https://www.facebook.com/sigmakib2
+LinkedIn: https://www.linkedin.com/in/sakib-mahmud-sakib/
+YouTube: https://www.youtube.com/@esakib
