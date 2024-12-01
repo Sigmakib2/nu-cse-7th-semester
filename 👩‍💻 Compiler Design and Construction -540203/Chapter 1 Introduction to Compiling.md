@@ -12,7 +12,9 @@ A compiler is a computer program that decodes computer code in one programming l
     - **Alternate Question:** Illustrate the different phases of a compiler with an example.
     - **Year:** [2020]
 
-[https://youtu.be/mttOlnvNtuE?si=meFPPEnrusYMCBLl](https://youtu.be/mttOlnvNtuE?si=meFPPEnrusYMCBLl)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mttOlnvNtuE?si=r3TcE1yuMeH_tSL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![[Pasted image 20241201221605.png]]
 
 - **Phases of Analysis**
     - **Question:** What are the phases of analysis in a compiler? Describe them.

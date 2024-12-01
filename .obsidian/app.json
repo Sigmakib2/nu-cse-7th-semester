@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "media",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true
 }
