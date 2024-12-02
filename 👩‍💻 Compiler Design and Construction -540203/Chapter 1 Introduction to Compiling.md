@@ -4,8 +4,14 @@
 
 [https://youtu.be/CalenZaTM0g?si=DduslBaDKFpUSuBG](https://youtu.be/CalenZaTM0g?si=DduslBaDKFpUSuBG)
 
-A compiler is a computer program that decodes computer code in one programming language into another. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TApMNhQPaCM?si=fc8Qqpy1rrSeEwE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+A compiler is a computer program that decodes computer code in one programming language into another. 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TApMNhQPaCM/0.jpg)](https://www.youtube.com/watch?v=TApMNhQPaCM)
+
+```
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TApMNhQPaCM/0.jpg)](https://www.youtube.com/watch?v=TApMNhQPaCM)
+```
 - **Phases of a Compiler**
     - **Question:** What are the phases of a compiler? Describe different phases of the compiler with examples.
     - **Years:** [2021, 2019, 2017, 2015, 2013, 2011, 2010, 2009]
